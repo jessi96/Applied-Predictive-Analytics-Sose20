@@ -4,6 +4,7 @@ Uplift models were mainly used for conversion setting where the outcome variable
 On that account, the goal of this project is to develop an uplift model that handles the case of both multiple treatments and continuous outcome. Our model has its foundation based on the Contextual Treatment Selection (CTS) developed by Zhao 2017,  combined with AdaBoost algorithms. Boosting often dramatically improves performance of classification models, so we make use of this property and aim to improve the uplift model performance under multiple treatments and continuous outcome.
 
 ## Getting Started
+Here we provide a little guidance on how to review our results.
 First of all, in the Model_Code file, you will find the code to our model building, presdicting, and curve drawing.
 In the Paper_Image file, the images needed for our final paper is included, and the paper can be found in the paper folder.
 Last but not least, the dataset we used for our project is also uploaded. Enjoy!
