@@ -8,5 +8,5 @@ On that account, the goal of this project is to develop an uplift model that han
 
 ## Authors
 
-* **Jessica Ströbel** * 
-* **Shih-Chi Ma** * 
+* Jessica Ströbel
+* Shih-Chi Ma
